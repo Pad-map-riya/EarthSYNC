@@ -20,6 +20,14 @@ Backend code(Node. Js + express)
 Frontend code(html, css, JavaScript)
 Index. Html
 
+# Frontend technologies 
+HTML5
+CSS3
+JavaScript (ES6+)
+# Backend technologies 
+Node.js
+Express.js
+
 ## 👥 Team 
 Padma priya S S - Team lead/Technical Researcher 
 Vinuja D V - Backend Developer
@@ -34,3 +42,4 @@ Distributed under the **MIT License**. See `LICENSE.md` for more information.
 For general questions or support, please open an **Issue** in this repository.
 
 Project Link:
+https://github.com/Pad-map-riya/EarthSYNC.git
